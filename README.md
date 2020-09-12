@@ -1,2 +1,2 @@
 # HF-NAS
-code for paper hardware local feature NAS
+code will be released after paper accepted
